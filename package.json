@@ -17,16 +17,17 @@
     "copy-webpack-plugin": "^11.0.0",
     "express": "^4.18.1",
     "lodash": "^4.17.21",
-    "lucid-cardano": "^0.6.6",
+    "lucid-cardano": "^0.3.5",
     "mime": "^3.0.0",
     "nft.storage": "^6.3.0",
+    "npx": "^10.2.2",
     "toastify-js": "^1.11.2",
     "typescript": "^4.7.2"
   },
   "devDependencies": {
+    "express": "^4.18.1",
     "ts-loader": "^9.3.0",
     "webpack": "^5.72.1",
-    "webpack-cli": "^4.9.2",
-    "express": "^4.18.1"
+    "webpack-cli": "^4.9.2"
   }
 }

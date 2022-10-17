@@ -1,4 +1,4 @@
-import {toHex, networkToId, C as LCore} from "lucid-cardano";
+import "lucid-cardano";
 
 import * as Secrets from "../secrets.js";
 
