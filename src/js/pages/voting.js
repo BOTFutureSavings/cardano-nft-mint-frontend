@@ -6,7 +6,7 @@ import * as NftPolicy from "../nft-toolkit/nft-policy.js";
 
 import {RebateCalculator} from "../nft-toolkit/rebate-calculator.js";
 
-import {Data, fromHex, toHex, getAddressDetails} from 'lucid-cardano';
+import 'lucid-cardano';
 
 import {shortToast} from '../third-party/toastify-utils.js';
 import {validate, validated} from '../nft-toolkit/utils.js';
